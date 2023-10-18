@@ -1,5 +1,5 @@
 ﻿# OSHomework
- 报告大纲：UNIX Shell with History Feature
+UNIX Shell with History Feature
 
 Name: 程维森
 Number: 21231264
@@ -47,4 +47,3 @@ IV. 代码展示
    - 包含美化、格式判断、输入输出详细指示等改进
    - 由于篇幅问题不予展示，但提供在附件中
 
-这是报告的大纲，您可以根据需要进一步展开和详细填充每个部分。
