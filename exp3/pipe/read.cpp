@@ -35,8 +35,6 @@ int main() {
 
         // 循环读取管道数据，直到读取结束
         while ((bytesRead = read(pipefd[0], buffer, sizeof(buffer))) > 0) {
-            // 在实际应用中，这里应该有查找特定单词的逻辑
-            // 这里只是简单地将读取到的内容输出到文件
             outputFile << "Child Process Output: " << buffer << endl;
         }
 
